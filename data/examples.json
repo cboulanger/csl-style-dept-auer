@@ -667,6 +667,29 @@
 		}
 	},
 	{
+		"id": "http://zotero.org/groups/2711275/items/SHAHSHAHANI2025",
+		"type": "article-journal",
+		"container-title": "Cornell Law Review",
+		"journalAbbreviation": "Cornell L. Rev.",
+		"page": "963-1024",
+		"title": "When Hard Cases Make Bad Law: A Theory of How Case Facts Affect Judge-Made Law",
+		"title-short": "When Hard Cases Make Bad Law",
+		"volume": "110",
+		"author": [
+			{
+				"family": "Shahshahani",
+				"given": "Sarath"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
 		"id": "http://zotero.org/groups/2711275/items/WOLFF1923",
 		"type": "chapter",
 		"container-title": "Festgabe der Berliner Juristischen Fakultät für Wilhelm Kahl zum Doktorjubiläum am 19. April 1923",

@@ -128,7 +128,7 @@
             <names variable="author" font-style="italic">
               <name form="long" font-style="italic" delimiter="/" initialize-with="." et-al-min="3" et-al-use-first="1"/>
             </names>
-            <text variable="title"/>
+            <text variable="title" form="short"/>
             <text macro="inarticle"/>
             <group delimiter=", ">
               <text variable="page-first"/>
