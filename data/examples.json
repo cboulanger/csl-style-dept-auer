@@ -732,5 +732,109 @@
 				]
 			]
 		}
+	},
+{
+		"id": "http://zotero.org/groups/2711275/items/3JAA263U",
+		"type": "book",
+		"call-number": "GER 967 MAY",
+		"collection-title": "Systematisches Handbuch der deutschen Rechtswissenschaft 6. Abt., 1.-2. Bd.",
+		"edition": "1",
+		"language": "ger",
+		"note": "HOLLIS number: 990051838720203941",
+		"publisher": "Duncker und Humblot",
+		"publisher-place": "Leipzig",
+		"source": "hollis.harvard.edu",
+		"title": "Deutsches Verwaltungsrecht, Bd. 2",
+		"URL": "https://catalog.hathitrust.org/Record/100416998",
+		"author": [
+			{
+				"family": "Mayer",
+				"given": "Otto"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					16
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1896"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/8NBAQZPV",
+		"type": "article-journal",
+		"abstract": "Jherings Jahrbücher für die Dogmatik des bürgerlichen Rechts (Bd. 32 = N.F. 20 (1893))",
+		"container-title": "Jherings Jahrbücher für die Dogmatik des bürgerlichen Rechts",
+		"journalAbbreviation": "JherJb",
+		"language": "zxx",
+		"note": "volume: Bd. 32 = N.F. 20 (1893)",
+		"page": "323–469",
+		"title": "Beiträge zum Recht der revocatorischen Klage bei Familienfideikommissen und hochadligen Hausgütern",
+		"URL": "https://dlc.mpg.de/image/mpirg_escidoc_82366/325/LOG_0014/",
+		"volume": "32 = N.F. 20",
+		"author": [
+			{
+				"family": "Rosin",
+				"given": "Heinrich"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1893"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/IPI2IJPP",
+		"type": "book",
+		"ISBN": "978-0-486-43461-2",
+		"language": "eng",
+		"number-of-pages": "300",
+		"original-publisher": "J.M. Dent & Sons",
+		"original-publisher-place": "London/New York",
+		"publisher": "Dover Publications",
+		"publisher-place": "Mineola, N.Y.",
+		"source": "K10plus ISBN",
+		"title": "The Principles of Political Economy and Taxation",
+		"author": [
+			{
+				"family": "Ricardo",
+				"given": "David"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		},
+		"original-date": {
+			"date-parts": [
+				[
+					"1911"
+				]
+			]
+		}
 	}	
 ]
