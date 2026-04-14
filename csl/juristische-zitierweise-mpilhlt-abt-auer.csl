@@ -112,8 +112,8 @@
   </macro>
   <macro name="URL">
     <choose>
-      <if match="any" variable="note">
-        <text variable="URL" font-style="italic"/>
+      <if match="any" variable="DOI">
+        <text variable="DOI" prefix="https://doi.org/" font-style="italic"/>
       </if>
     </choose>
   </macro>
