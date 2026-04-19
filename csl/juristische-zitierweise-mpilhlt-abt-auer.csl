@@ -337,7 +337,6 @@
                 <choose>
                   <if match="any" variable="original-date">
                     <group prefix="(" suffix=")" delimiter=" ">
-                      <text value="1. Aufl."/>
                       <text variable="original-publisher-place"/>
                       <date date-parts="year" form="text" variable="original-date"/>
                     </group>
