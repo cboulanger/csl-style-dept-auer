@@ -371,6 +371,14 @@
               <group delimiter=" ">
                 <text variable="publisher-place"/>
                 <date date-parts="year" form="text" variable="issued"/>
+                <choose>
+                  <if match="any" variable="original-date">
+                    <group prefix="(" suffix=")" delimiter=" ">
+                      <text variable="original-publisher-place"/>
+                      <date date-parts="year" form="text" variable="original-date"/>
+                    </group>
+                  </if>
+                </choose>
               </group>
               <text variable="page" prefix="S. "/>
             </group>
