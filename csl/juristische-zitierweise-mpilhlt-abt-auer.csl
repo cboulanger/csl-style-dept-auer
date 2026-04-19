@@ -363,7 +363,6 @@
                     </substitute>
                   </names>
                   <text variable="container-title"/>
-                  <text variable="collection-number"/>
                 </group>
               </group>
               <group delimiter=" ">
