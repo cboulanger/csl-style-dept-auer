@@ -366,8 +366,18 @@
                   <text variable="collection-number"/>
                 </group>
               </group>
-              <text variable="edition"/>
               <group delimiter=" ">
+                <choose>
+                  <if match="any" is-numeric="edition">
+                    <group delimiter=" ">
+                      <number variable="edition" form="ordinal"/>
+                      <text term="edition"/>
+                    </group>
+                  </if>
+                  <else-if match="any" variable="edition">
+                    <text variable="edition"/>
+                  </else-if>
+                </choose>
                 <text variable="publisher-place"/>
                 <date date-parts="year" form="text" variable="issued"/>
                 <choose>
