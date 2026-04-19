@@ -836,5 +836,164 @@
 				]
 			]
 		}
-	}	
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/LTYSA7MJ",
+		"type": "article-journal",
+		"container-title": "The Yale Law Journal",
+		"DOI": "10.2307/797307",
+		"ISSN": "0044-0094",
+		"issue": "3",
+		"journalAbbreviation": "Yale L.J.",
+		"page": "613–702",
+		"publisher": "The Yale Law Journal Company, Inc.",
+		"source": "JSTOR",
+		"title": "\"The Foundation of Our 'Regulatory Takings' Jurisprudence\": The Myth and Meaning of Justice Holmes's Opinion in Pennsylvania Coal Co. v. Mahon",
+		"title-short": "\"The Foundation of Our 'Regulatory Takings' Jurisprudence\"",
+		"URL": "https://www.jstor.org/stable/797307",
+		"volume": "106",
+		"author": [
+			{
+				"family": "Brauneis",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					4,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/U2ZQXTY6",
+		"type": "chapter",
+		"collection-number": "v.3",
+		"collection-title": "Recht und Politik. Beihefte",
+		"container-title": "100 Jahre Weimarer und Wiener Republik – Avantgarde der Pluralismustheorie",
+		"ISBN": "978-3-428-15613-9",
+		"language": "ger",
+		"page": "57–83",
+		"publisher": "Duncker & Humblot",
+		"publisher-place": "Berlin",
+		"source": "K10plus ISBN",
+		"title": "Die Weimarer Verfassung zwischen Überforderung und Herausforderung",
+		"editor": [
+			{
+				"family": "Gusy",
+				"given": "Christoph"
+			},
+			{
+				"family": "Ooyen",
+				"given": "Robert Chr.",
+				"dropping-particle": "van"
+			},
+			{
+				"family": "Wassermann",
+				"given": "Hendrik"
+			}
+		],
+		"author": [
+			{
+				"family": "Gusy",
+				"given": "Christoph"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/QJVRHPTV",
+		"type": "chapter",
+		"container-title": "Staatsrechtslehrer des 20. Jahrhunderts. Deutschland–Österreich–Schweiz",
+		"edition": "2",
+		"ISBN": "978-3-11-054145-8",
+		"note": "container-title-short: Staatsrechtslehrer des 20. Jahrhunderts",
+		"page": "391–414",
+		"publisher": "De Gruyter",
+		"publisher-place": "Berlin/Boston",
+		"source": "Library of Congress ISBN",
+		"title": "Carl Schmitt (1888–1985)",
+		"editor": [
+			{
+				"family": "Häberle",
+				"given": "Peter"
+			},
+			{
+				"family": "Kilian",
+				"given": "Michael"
+			},
+			{
+				"family": "Wolff",
+				"given": "Heinrich Amadeus"
+			}
+		],
+		"author": [
+			{
+				"family": "Jestaedt",
+				"given": "Matthias"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2711275/items/GUTZGXRM",
+		"type": "chapter",
+		"container-title": "Readings in the Philosophy of Law",
+		"ISBN": "0-8153-3718-3",
+		"language": "eng",
+		"original-publisher-place": "Oxford",
+		"page": "557–597",
+		"publisher": "Garland Publishing, Inc.",
+		"publisher-place": "New York/London",
+		"source": "K10plus ISBN",
+		"title": "Ownership",
+		"editor": [
+			{
+				"family": "Coleman",
+				"given": "Jules L."
+			}
+		],
+		"author": [
+			{
+				"family": "Honoré",
+				"given": "A.M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1999"
+				]
+			]
+		},
+		"original-date": {
+			"date-parts": [
+				[
+					"1961"
+				]
+			]
+		}
+	}
 ]
