@@ -275,8 +275,16 @@
               <text macro="author"/>
               <text variable="title"/>
               <group delimiter=" ">
-                <text variable="container-title" suffix=" "/>
-                <date date-parts="year" form="text" variable="issued"/>
+                <text variable="container-title"/>
+                <choose>
+                  <if match="any" variable="volume">
+                    <text variable="volume"/>
+                    <date date-parts="year" form="text" variable="issued" prefix="(" suffix=")"/>
+                  </if>
+                  <else>
+                    <date date-parts="year" form="text" variable="issued"/>
+                  </else>
+                </choose>
               </group>
               <group>
                 <choose>
