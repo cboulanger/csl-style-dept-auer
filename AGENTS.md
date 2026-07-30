@@ -38,7 +38,9 @@ Compare the output to what the user asked for. Iterate until it matches.
 
 ## GitHub issues
 
-When asked to work on a GitHub issue, use `gh` if available. Add the example used in the issue to the example data to allow 1:1 comparisons of the test output. 
+When asked to work on a GitHub issue, use `gh` if available. If you have no write access to the issues, tell the user to close the issue themselves using a proposed comment text.
+
+Add the example used in the issue to the example data to allow 1:1 comparisons of the test output.
 
 If there is a contradiction in what the issue wants with how the style currently handles things, and the current state is not clearly a bug, do not implement but add a comment that explains the discrepancy and asks for confirmation.
 
